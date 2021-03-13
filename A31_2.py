@@ -1,0 +1,5 @@
+name=input("enter the name")
+place=input("enter the place")
+animal=input("enter the animal")
+thing=input("enter the thing")
+print((name),"saw a/an",(animal),"siting on a top a/an",(thing),"on his way to",(place))
